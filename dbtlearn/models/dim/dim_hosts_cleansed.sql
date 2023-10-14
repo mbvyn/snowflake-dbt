@@ -1,3 +1,9 @@
+{{
+  config(
+    materialized = 'view'
+  )
+}}
+
 WITH scr_hosts AS (
     SELECT * FROM {{ ref('src_hosts') }}
 )
