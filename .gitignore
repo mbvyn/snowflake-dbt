@@ -1,8 +1,8 @@
 # Ignore dbt artifacts in all subfolders
 
-dbt-learn/target/
-dbt-learn/dbt_packages/
-dbt-learn/logs/
+dbtlearn/target/
+dbtlearn/dbt_packages/
+dbtlearn/logs/
 /logs
 # Ignore IDE-specific files
 /.idea/
