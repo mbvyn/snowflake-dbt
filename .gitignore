@@ -1,0 +1,11 @@
+# Ignore dbt artifacts in all subfolders
+
+dbt-learn/target/
+dbt-learn/dbt_packages/
+dbt-learn/logs/
+/logs
+# Ignore IDE-specific files
+/.idea/
+/.vscode/
+
+snowflake.txt
