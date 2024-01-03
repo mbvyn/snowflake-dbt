@@ -4,7 +4,7 @@ exposures:
  - name: Executive Dashboard
    type: dashboard
    maturity: low
-   url: https://7e942fbd.us2a.app.preset.io:443/r/2
+   url: https://9187239c.us2a.app.preset.io/superset/dashboard/p/NBpVO1MOza0/
    description: Executive Dashboard about Airbnb listings and hosts
 
    depends_on:
@@ -12,5 +12,5 @@ exposures:
    - ref('mart_fullmoon_reviews')
 
    owner:
-     name: Zoltan C. Toth
-     email: hello@learndbt.com
+     name: Mykola-Bohdan Vynnytskyi
+     email: m.bvynnytskyi@gmail.com
