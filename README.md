@@ -65,7 +65,6 @@ Contains dbt snapshots for capturing historical data states.
  - #### tests/: 
 Holds YAML files defining tests for the dbt models.
 
-Inside the **/snowflake_scripts**
-There are examples of queries that need to be run for the correct operation of the project
+Inside the **/snowflake_scripts** there are examples of queries that need to be run for the correct operation of the project.
 
 
